@@ -1,0 +1,11 @@
+{
+  "name": "fcc-salon",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha \".freeCodeCamp/test/**/*.js\""
+  },
+  "devDependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^11.7.1"
+  }
+}
